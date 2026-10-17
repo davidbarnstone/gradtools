@@ -11,3 +11,5 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 URL: https://github.com/davidbarnstone/gradtools
 BugReports: https://github.com/davidbarnstone/gradtools/issues
+Imports: 
+    magrittr
